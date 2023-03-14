@@ -11,8 +11,7 @@ This script automatically follows people on Poshmark to boost my account's follo
 Here are the steps to get this program working.
 
 ```bash
-  pip install selenium
-
+pip install selenium
 ```
 After that head over to https://sites.google.com/chromium.org/driver/ and download the latest chrome driver and drop it into the same folder as the script.
 Then open the script and put your email & password at the top of the script.
