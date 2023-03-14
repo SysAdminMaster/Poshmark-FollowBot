@@ -3,7 +3,7 @@
 
 This script automatically follows people on Poshmark to boost my account's followers. People often follow back after you follow them. However, please note that I'm not responsible for how you use this script.
 
-
+If the website changes you might need to update some of the elements.
 
 
 ## Usage
